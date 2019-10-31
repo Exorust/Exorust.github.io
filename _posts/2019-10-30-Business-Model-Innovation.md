@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Part 2:Business Model Innovation"
+title: "Part 2: Business Model Innovation"
 description: "What drives Blitzscaling?"
 category: articles
 comments: true
@@ -25,9 +25,9 @@ Its also interesting to account for how technological and price improvements can
 
 Surprisingly, a good product with great distribution will always beat a great product with good distribution. A successful distribution usually works through:
 
-a. **Leveraging Existing Networks**: Instead of investing in ad campaigns use existing networks, for example PayPal used eBay by adding a "Pay with PayPal" button to listings.
+A. **Leveraging Existing Networks** : Instead of investing in ad campaigns use existing networks, for example PayPal used eBay by adding a "Pay with PayPal" button to listings.
 
-b. **Virality**: This can be *organic*--occuring during the course of using the product--or *incentivized* by giving a reward. Drop box used both, users sharing files with non-users(organic), basic account holders get extra 500MB if they refer(incentivized).
+B. **Virality : This can be *organic*--occuring during the course of using the product--or *incentivized* by giving a reward. Drop box used both, users sharing files with non-users(organic), basic account holders get extra 500MB if they refer(incentivized).
 
 ### 3. High Gross Margin
 
@@ -39,11 +39,11 @@ Remember *even though gross margins matter to the seller, they are irrelevant to
 
 This effect is the most powerful, becuase it *sustains* the growth. A product is subject to network effect when *increased usage by any user increases the value of the product or the service*. This can be seen in Facebook, Uber, Airbnb, LinkedIn and many more. The 5 categories of Network Effects are:
 
-a. ** Direct Network Effects**: Increased usage leads to direct increase in value. (Facebook, Whatsapp, Instagram)
-b. ** Indirect Network Effects**: Increased usage encourages consumption of complementary goods. (Adoption of iOS/Android encourages app builders)
-a. ** Two-sided Network Effects**: Increased usage of one set of users increases the value to a complementary set of users. (Marketplaces like Uber,eBay,Airbnb)
-a. ** Local Network Effects**: Increase in usage by a small subset of users increases value for connected user.
-a. ** Compatibility and Standards**: Use of a product allows it to set the standard. (MsWord being the dominant document file destroying WordPerfect and OpenDocument)
+A. ** Direct Network Effects**: Increased usage leads to direct increase in value. (Facebook, Whatsapp, Instagram)
+B. ** Indirect Network Effects**: Increased usage encourages consumption of complementary goods. (Adoption of iOS/Android encourages app builders)
+C. ** Two-sided Network Effects**: Increased usage of one set of users increases the value to a complementary set of users. (Marketplaces like Uber,eBay,Airbnb)
+D. ** Local Network Effects**: Increase in usage by a small subset of users increases value for connected user.
+E. ** Compatibility and Standards**: Use of a product allows it to set the standard. (MsWord being the dominant document file destroying WordPerfect and OpenDocument)
 
 ## Growth Limiters
 

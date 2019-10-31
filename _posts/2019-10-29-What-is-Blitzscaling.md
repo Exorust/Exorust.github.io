@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Part 1:What is Blitzscaling?"
+title: "Part 1: What is Blitzscaling?"
 description: "First step of my reading journey of Blitzscaling"
 category: articles
 comments: true
 tags: [Blitzscaling, Reid Hoffman, Chris Yeh]
 ---
 
-(Blitzscaling)[https://www.amazon.com/Blitzscaling-Lightning-Fast-Path-Building-Massively/dp/0008303630] , according to the authors, is a framework, to help founders rapidly scale their company. This raises questions:
+[Blitzscaling](https://www.amazon.com/Blitzscaling-Lightning-Fast-Path-Building-Massively/dp/0008303630) , according to the authors, is a framework, to help founders rapidly scale their company. This raises questions:
 - **Which sucessful companies have used blitzscaling?**: Companies like Airbnb, Amazon, Dropbox and Uber have successfully used blitzscaling to their advantage, before such a concept has existed.
 - **Do I need to blitzscale?**: Depends, on whether you currently need rapid growth, and are willing to commit to decisions with higher risk associated with it.
 
