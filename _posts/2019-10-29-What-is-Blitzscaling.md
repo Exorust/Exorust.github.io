@@ -6,9 +6,10 @@ category: articles
 comments: true
 tags: [Blitzscaling, Reid Hoffman, Chris Yeh]
 ---
+After hearing about this book from a lot of people, I finally picked up the book [Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies](https://www.amazon.com/Blitzscaling-Lightning-Fast-Path-Building-Massively/dp/0008303630) . Hopefully I want to read some more books & I plan to use this blog as a place to collect my own thoughts on the subject.
 
-[Blitzscaling](https://www.amazon.com/Blitzscaling-Lightning-Fast-Path-Building-Massively/dp/0008303630) , according to the authors, is a framework, to help founders rapidly scale their company. This raises questions:
-- **Which sucessful companies have used blitzscaling?**: Companies like Airbnb, Amazon, Dropbox and Uber have successfully used blitzscaling to their advantage, before such a concept has existed.
+Blitzscaling, is a framework, to help founders rapidly scale their company. This raises questions:
+- **Which sucessful companies have used blitzscaling?**: Companies like Google,Facebook,Airbnb, Amazon, Dropbox and Uber have successfully used blitzscaling to their advantage, before such a concept has existed.
 - **Do I need to blitzscale?**: Depends, on whether you currently need rapid growth, and are willing to commit to decisions with higher risk associated with it.
 
 You accept the risk of making the wrong decision, because you are willing to pay the cost of inefficiencies for the trade-off of speed. Blitzscaling is more than just making a startup its making a startup on steroids.
