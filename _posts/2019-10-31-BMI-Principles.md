@@ -7,7 +7,7 @@ comments: true
 tags: [Blitzscaling, Reid Hoffman, Chris Yeh]
 ---
 
-Fundamentally, there are patterns and hidden principles that push Business Model Innovation.
+A mixture of multiple patterns help startups pioneer new business models. What are these? Surprisingly, a set of underlying principles allow these patterns to work. What are they?
 
 ## Patterns that lead to Innovative Business Models
 Either intentionally or unintentionally, the business models of rapidly growing companies often follow proven patterns that tap into growth factors. One must also note that not all patterns are equal. Open source software is insanely sucessful, but most of the time fails to monetize to the same level.
