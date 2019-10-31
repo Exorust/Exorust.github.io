@@ -39,7 +39,6 @@ Remember *even though gross margins matter to the seller, they are irrelevant to
 
 This effect is the most powerful, becuase it *sustains* the growth. A product is subject to network effect when *increased usage by any user increases the value of the product or the service*. This can be seen in Facebook, Uber, Airbnb, LinkedIn and many more. The 5 categories of Network Effects are:
 
-<<<<<<< HEAD
 A. **Direct Network Effects** : Increased usage leads to direct increase in value. (Facebook, Whatsapp, Instagram)
 
 B. **Indirect Network Effects** : Increased usage encourages consumption of complementary goods. (Adoption of iOS/Android encourages app builders)
@@ -49,17 +48,6 @@ C. **Two-sided Network Effects** : Increased usage of one set of users increases
 D. **Local Network Effects** : Increase in usage by a small subset of users increases value for connected user.
 
 E. **Compatibility and Standards** : Use of a product allows it to set the standard. (MsWord being the dominant document file destroying WordPerfect and OpenDocument)
-=======
-A. ** Direct Network Effects** : Increased usage leads to direct increase in value. (Facebook, Whatsapp, Instagram)
-
-B. ** Indirect Network Effects** : Increased usage encourages consumption of complementary goods. (Adoption of iOS/Android encourages app builders)
-
-C. ** Two-sided Network Effects** : Increased usage of one set of users increases the value to a complementary set of users. (Marketplaces like Uber,eBay,Airbnb)
-
-D. ** Local Network Effects** : Increase in usage by a small subset of users increases value for connected user.
-
-E. ** Compatibility and Standards** : Use of a product allows it to set the standard. (MsWord being the dominant document file destroying WordPerfect and OpenDocument)
->>>>>>> 9d2953a5ae41609d046ac6ac00aa4641a00b8a0e
 
 ## Growth Limiters
 
