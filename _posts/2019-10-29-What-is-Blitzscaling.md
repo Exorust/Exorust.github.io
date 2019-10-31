@@ -82,3 +82,5 @@ Most sucessful blitzscalers used built in growth factors, such as network effect
 ### Technique 3: Management Innovation
 
 Due to the hyper-growth experienced, you will need fresh management innovation to handle the growth of the organization and its employees. Companies that blitzscale have to navigate key transitions as their organizations grow, and have to embrace certain counterintuitive rules, like hiring 'good-enough' employees, launching flawed and imperfect products, and certain times ignoring angry customers.
+
+*Read [Part 2](https://exorust.github.io/articles/Business-Model-Innovation) as well!*

@@ -122,3 +122,6 @@ Sucessful startups through the use of constant experiments and A/B tesing and gr
 The crucial aspect of creating a valuable tech company is being a contrarian. If your company is pursuing a very attractive proposition, then you will have to spend a lot of effort distancing yourself from your competitors. But if your company is pursuing an opportunity that conventional wisdom ignores or disdains, then you have time to refine your business model and you can obtain good Product/Market fit.
 
 Surprisingly, being contrarian doesn't mean that dumb people disagree with you, but it means that smart people disagree with you! The idea of business model innovation means that you are trying something new and unproven!
+
+Next part coming soon!
+For Part 1, read it [here](https://exorust.github.io/articles/What-is-Blitzscaling)
