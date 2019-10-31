@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Part 1 of Blitzscaling: What is Blitzscaling?"
+title: "Blitzscaling Part 1: What is Blitzscaling?"
 description: "First step of my reading journey of Blitzscaling"
 category: articles
 comments: true

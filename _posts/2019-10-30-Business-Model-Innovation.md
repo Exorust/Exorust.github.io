@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Part 2 of Blitzscaling: Business Model Innovation"
+title: "Blitzscaling Part 2: Business Model Innovation"
 description: "What drives Blitzscaling?"
 category: articles
 comments: true
