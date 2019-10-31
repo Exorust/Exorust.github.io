@@ -1,26 +1,35 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
+title: Chandu Who?
+description: A Coder who's a poet.
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
+Hi I'm *Chandrahas Aroori*!
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+I currently am a senior pursuing my undergraduate in Computer Science in Bits Pilani Hyderabad Campus. I am *interested in the intersection of Computer Science and the real world*. I want to work on *something that makes a difference* and can lead to changing of the existing paradigms.
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+I'm best at understanding the paradigms that make up computer science and integrating them to the real world.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+I am a big believer of (Thoreau's quote)[https://www.goodreads.com/quotes/2690-i-went-to-the-woods-because-i-wished-to-live], "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.". My favourite poem is ("Do Not Go gentle into that good night")[https://poets.org/poem/do-not-go-gentle-good-night], by Dylan Thomas. Give it a read if you like poetry. :)
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+#### Tech I've been Involved with:
+- Blockchain
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Web Development (Backend & Frontend)
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+#### I've worked with:
+- Javascript & Typescript
+- C
+- Spring Boot
+- Python (for Data Science,ML, & Deep Learning)
+
+### Find me here too!
+
+- [Github](https://github.com/Exorust)
+- [Stackoverflow](https://stackoverflow.com/users/7086962/chandrahas-aroori)
+- [LinkedIn](https://www.linkedin.com/in/chandrahas-aroori-409b44148/)
