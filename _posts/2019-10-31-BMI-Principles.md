@@ -74,4 +74,7 @@ The crucial aspect of creating a valuable tech company is being a contrarian. If
 Surprisingly, being contrarian doesn't mean that dumb people disagree with you, but it means that smart people disagree with you! The idea of business model innovation means that you are trying something new and unproven!
 
 Next part coming soon!
-For Part 1, read it [here](https://exorust.github.io/articles/What-is-Blitzscaling)!
+
+For Part 1 to understand what blitzscaling really is, read it [here](https://exorust.github.io/articles/What-is-Blitzscaling)!
+
+For Part 2 about Business Model Innovation, read it [here](https://exorust.github.io/articles/Business-Model-Innovation)!
