@@ -33,7 +33,7 @@ Most companies always go through the classic "S-curve" of growth. Initally compa
 <figure>
         <img src="/images/S-Curve.png">
         <figcaption> S-Curve of Innovation. <br>
-        Picture Credits: http://www.galsinsights.com/the-innovation-s-curve/</figcaption>
+        Picture Credits: [Gals Insights](http://www.galsinsights.com/the-innovation-s-curve/)</figcaption>
 </figure>
 
 
