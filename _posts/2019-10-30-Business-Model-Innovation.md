@@ -17,9 +17,9 @@ These 4 factors enable growth while blitzscaling.
 
 ### 1. Market Size
 
-Albeit obvious, to build a massive company, identify and work only with ideas that serve a large market. A large market has *not just a large number of potential customers but also effective channels to reach these customers*. VC's usually refer to this as TAM ( Total available Market ), and its prediction is one of the main uncertainities in blitscaling.
+Albeit obvious, to build a massive company, identify and work only with ideas that serve a large market. A large market has *not just a large number of potential customers but also effective channels to reach these customers*. VC's usually refer to this as TAM (Total available Market), and its prediction is one of the main uncertainities in blitscaling.
 
-Its also interesting to account for how technological and price improvements can bring in new customers. As Aron Levie (founder of Box), said "Sizing the market for a disruptor based on the incumbent market is like sizing the car industry off how many horses there were in 1910".
+Its also interesting to account for how technological and price improvements can bring in new customers. As Aron Levie (founder of Box), said *"Sizing the market for a disruptor based on the incumbent market is like sizing the car industry off how many horses there were in 1910" *.
 
 ### 2. Distribution
 
@@ -39,15 +39,15 @@ Remember *even though gross margins matter to the seller, they are irrelevant to
 
 This effect is the most powerful, becuase it *sustains* the growth. A product is subject to network effect when *increased usage by any user increases the value of the product or the service*. This can be seen in Facebook, Uber, Airbnb, LinkedIn and many more. The 5 categories of Network Effects are:
 
-A. ** Direct Network Effects**: Increased usage leads to direct increase in value. (Facebook, Whatsapp, Instagram)
+A. ** Direct Network Effects** : Increased usage leads to direct increase in value. (Facebook, Whatsapp, Instagram)
 
-B. ** Indirect Network Effects**: Increased usage encourages consumption of complementary goods. (Adoption of iOS/Android encourages app builders)
+B. ** Indirect Network Effects** : Increased usage encourages consumption of complementary goods. (Adoption of iOS/Android encourages app builders)
 
-C. ** Two-sided Network Effects**: Increased usage of one set of users increases the value to a complementary set of users. (Marketplaces like Uber,eBay,Airbnb)
+C. ** Two-sided Network Effects** : Increased usage of one set of users increases the value to a complementary set of users. (Marketplaces like Uber,eBay,Airbnb)
 
-D. ** Local Network Effects**: Increase in usage by a small subset of users increases value for connected user.
+D. ** Local Network Effects** : Increase in usage by a small subset of users increases value for connected user.
 
-E. ** Compatibility and Standards**: Use of a product allows it to set the standard. (MsWord being the dominant document file destroying WordPerfect and OpenDocument)
+E. ** Compatibility and Standards** : Use of a product allows it to set the standard. (MsWord being the dominant document file destroying WordPerfect and OpenDocument)
 
 ## Growth Limiters
 
