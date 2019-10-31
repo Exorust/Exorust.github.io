@@ -9,7 +9,9 @@ image:
 ---
 Hi I'm *Chandrahas Aroori*!
 
-I currently am a senior pursuing my undergraduate in Computer Science in Bits Pilani Hyderabad Campus. I am *interested in the intersection of Computer Science and the real world*. I want to work on *something that makes a difference* and can lead to changing of the existing paradigms.
+I currently am a senior pursuing my undergraduate in Computer Science in Bits Pilani Hyderabad Campus.
+
+I am *interested in the intersection of Computer Science and the real world*. I want to work on *something that makes a difference* and can lead to changing of the existing paradigms.
 
 I'm best at understanding the paradigms that make up computer science and integrating them to the real world.
 
