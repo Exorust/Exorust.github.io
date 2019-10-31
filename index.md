@@ -9,4 +9,4 @@ image:
 
 Hello there! Welcome. I'm **Chandrahas Aroori** and here's a listing of all the recent posts I've made.
 
-I am into *Tech, Design & Startups*. Feel free to email [here](mailto:chandrahas.aroori@gmail.com) me about any of these topics. :)
+I am into *Tech, Design & Startups*. Feel free to email me [here](mailto:chandrahas.aroori@gmail.com) about any of these topics. :)
