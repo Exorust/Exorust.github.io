@@ -16,7 +16,7 @@ owner:
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-151340760-1"
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
