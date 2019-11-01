@@ -17,11 +17,11 @@ Fitts's Law allows us to see how much time it takes for the user to engage with 
 
 Key understandings to Fitts's Law are:
 
-A. Touch targets should be large enough for users to discern what it is and accurately select them.
+**A.** Touch targets should be large enough for users to discern what it is and accurately select them.
 
-B. Touch targets should have adequate spacing between one another
+**B.** Touch targets should have adequate spacing between one another
 
-C. Touch target placement should allow them to be easily accessed
+**C.** Touch target placement should allow them to be easily accessed
 
 ## 2. Jakob's Law
 
