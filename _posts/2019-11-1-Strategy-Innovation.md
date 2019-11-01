@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blitzscaling Part 4: Strategy Innovation in Blitzscaling?"
+title: "Blitzscaling Part 4: Strategy Innovation in Blitzscaling"
 description: "What are the strategies to be pursued?"
 category: articles
 comments: true
