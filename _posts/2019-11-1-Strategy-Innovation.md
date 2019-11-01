@@ -34,7 +34,7 @@ Blitzscaling is an inefficient use of capital, and only makes sense when speed a
 - Decreasing per-employee productivity
 - Increasing management overhead
 - Internal conflict
-  + "What went wrong?"/"Whose responsible?"
+  + "What went wrong?"/"Whose responsible?" 
   + CEO changing
 
 When this occurs, that means that your current strategy won't scale further, and its time to begin the cycle again.
