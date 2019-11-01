@@ -18,6 +18,6 @@ linkedin: chandrahas-aroori-409b44148/
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "151340760"
 
 exclude: ['package.json', 'src' , 'node_modules']
