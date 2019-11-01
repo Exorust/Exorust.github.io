@@ -11,7 +11,7 @@ Most of you readers must have used a linux distro at some point of time or the o
 
 And I'm not here to discuss what is best between the various operating systems. This is a critique of Linux Distros, (the packaged ones atleast, not you ArchLinux).
 
-But if you really look at linux distro's just after installation, they certainly dont look a whole lot aesthetic, and most times require extra installation to make simple things work. For example, unless I have installed `ubuntu-restricted-extras`, I will have trouble installing VLC via the Ubuntu Software Application.
+But if you really look at linux distro's just after installation, they certainly don't look a whole lot aesthetic, and most times require extra installation to make simple things work. For example, unless I have installed `ubuntu-restricted-extras`, I will have trouble installing VLC via the Ubuntu Software Application.
 
 Yes it's true that I can install a lot of things through the terminal. And yes most of the times the terminal allows installation to become quite streamlined. But why should I open the terminal?
 
@@ -29,6 +29,6 @@ And steps have been taken in the right direction, from distro's like Elementary 
 - Clean modern UI
 - Easy to use installers
 
-And most of these are being solved already. Most Linux Distro's dont look like Windows XP anymore, and Snaps allow easy installation on any distro.
+And most of these are being solved already. Most Linux Distro's don't look like Windows XP anymore, and Snaps allow easy installation on any distro.
 
 But I think that keeping all this within a single distro and making the experience as a whole simple is what counts. And I hope, nay believe linux will nail it. Just probably later than sooner.
