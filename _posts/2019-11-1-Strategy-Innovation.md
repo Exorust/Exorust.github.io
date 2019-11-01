@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blitzscaling Part 4: Strategy Innovation in Blitzscaling"
+title: "Blitzscaling Part 3: Strategy Innovation in Blitzscaling"
 description: "What are the strategies to be pursued?"
 category: articles
 comments: true
@@ -34,7 +34,7 @@ Blitzscaling is an inefficient use of capital, and only makes sense when speed a
 - Decreasing per-employee productivity
 - Increasing management overhead
 - Internal conflict
-  + "What went wrong?"/"Whose responsible?" 
+  + "What went wrong?"/"Whose responsible?"
   + CEO changing
 
 When this occurs, that means that your current strategy won't scale further, and its time to begin the cycle again.
@@ -88,3 +88,8 @@ As the organization grows the specific skills required to led it evolves as well
 - **Stage 3 (100s of Employees):** Founder designs an organization that pulls the Levers
 - **Stage 4 (1000s of Employees):** Founder makes high level decisions about goals and strategies
 - **Stage 5 (10,000s of Employees):** Founder figures out how to pull the organization back from blitzscaling adn starts blitscaling new product lines and business units
+
+* Final Part is coming up!
+
+For Part 1, about what blitzscaling really is, find it [here](https://exorust.github.io/articles/What-is-Blitzscaling)!
+For Part 2 about how we can Innovate Business Models, find it *[here](https://exorust.github.io/articles/Business-Model-Innovation)! 

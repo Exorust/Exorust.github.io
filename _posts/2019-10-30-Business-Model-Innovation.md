@@ -63,6 +63,8 @@ You can be limited *not just by technical scalability, but also by human limitat
 
 Even companies like Twitter faced Technical Scaling problems which lead to the famous [fail whale](http://business.time.com/2013/11/06/how-twitter-slayed-the-fail-whale/) error. Luckily Twitter was able to fix their problems, but sites like Friendster could never recover from their scaling problems.
 
-Read [Part 3](https://exorust.github.io/articles/BMI-Principles) if you want to see what pushes Innovation in Business Models!
 
-For Part 1, read it [here](https://exorust.github.io/articles/What-is-Blitzscaling)!
+
+* Read [Part 3](https://exorust.github.io/articles/Strategy-Innovation) if you want to see what pushes Innovation in Business Models!
+
+For Part 1, read it [here](https://exorust.github.io/articles/What-is-Blitzscaling)! *
