@@ -65,6 +65,6 @@ Even companies like Twitter faced Technical Scaling problems which lead to the f
 
 
 
-* Read [Part 3](https://exorust.github.io/articles/Strategy-Innovation) if you want to see what pushes Innovation in Business Models!
+* Read [Part 3](https://exorust.github.io/articles/Strategy-Innovation) if you want to see what pushes Innovation in Business Models! *
 
-For Part 1, read it [here](https://exorust.github.io/articles/What-is-Blitzscaling)! *
+* For Part 1, read it [here](https://exorust.github.io/articles/What-is-Blitzscaling)! *

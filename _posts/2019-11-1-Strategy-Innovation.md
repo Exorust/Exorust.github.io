@@ -89,7 +89,8 @@ As the organization grows the specific skills required to led it evolves as well
 - **Stage 4 (1000s of Employees):** Founder makes high level decisions about goals and strategies
 - **Stage 5 (10,000s of Employees):** Founder figures out how to pull the organization back from blitzscaling adn starts blitscaling new product lines and business units
 
-* Final Part is coming up!
+* Final Part is coming up! *
 
-For Part 1, about what blitzscaling really is, find it [here](https://exorust.github.io/articles/What-is-Blitzscaling)!
-For Part 2 about how we can Innovate Business Models, find it *[here](https://exorust.github.io/articles/Business-Model-Innovation)! 
+*For Part 1, about what blitzscaling really is, find it [here](https://exorust.github.io/articles/What-is-Blitzscaling)!*
+
+*For Part 2 about how we can Innovate Business Models, find it *[here](https://exorust.github.io/articles/Business-Model-Innovation)! *
