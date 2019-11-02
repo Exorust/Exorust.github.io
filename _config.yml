@@ -1,4 +1,4 @@
-title:            Chandu's Blog
+title:            A Rebel's Musing
 tagline:          Chandrahas Aroori's Thoughts.
 description:      Blog full of Chandu's Ideas and Thoughts!
 canonical: http://exorust.github.io
@@ -29,7 +29,7 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Chandu Who?
+  - title: Rebel Who?
     url: /about
   - title: Posts
     url: /articles
