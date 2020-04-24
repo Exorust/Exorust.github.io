@@ -17,6 +17,8 @@ I want to work on *something that makes a difference* and can lead to changing o
 
 I'm best at understanding the paradigms that make up computer science and integrating them to the real world.
 
+If I'd summarize why I love coding it would be: "Uncertainty in coding means you can mold the situation to whatever you want. It is completely upto your design, your ingenuity!"
+
 I am a big believer of [Thoreau's quote](https://www.goodreads.com/quotes/2690-i-went-to-the-woods-because-i-wished-to-live), *"I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived."*
 
 My favourite poem is ["Do Not Go gentle into that good night"](https://poets.org/poem/do-not-go-gentle-good-night), by Dylan Thomas. Give it a read if you like poetry. :)
