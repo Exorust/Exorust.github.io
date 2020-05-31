@@ -30,6 +30,8 @@ Implementation of this with red-black trees is:
 2. Prempt if it exceeds timeslice. Add to the tree again. Else delete.
 3. Repeat step 1.
 
+CFS uses a concept called "sleeper fairness", which considers sleeping or waiting tasks equivalent to those on the runqueue. This means that interactive tasks which spend most of their time waiting for user input or other events get a comparable share of CPU time when they need it. 
+
 The fair queuing CFS scheduler has a scheduling complexity of O(log N), where N is the number of tasks in the runqueue. Choosing a task can be done in constant time, but reinserting a task after it has run requires O(log N) operations, because the runqueue is implemented as a red-black tree. 
 
 ## Scheduling in Multi-processor systems
@@ -39,4 +41,4 @@ While building a multi-processor system, each processor would require its own ru
 Even if we want to redistribute threads we need to think about cache locality of the thread data. The load balancer uses a hierarchical strategy. Each level of the hierarchy is called a scheduling domain. At the bottom level are single cores, groupings in higher levels depend on how the machine’s physical resources are shared.
 
 In the paper, "The Linux Scheduler: A Decade of Wasted Cores" the authors listed 4 bugs which lead to the linux scheduler being patched in 2016.
-'
+
