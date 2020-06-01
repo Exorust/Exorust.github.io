@@ -24,6 +24,12 @@ Its usually as simple as placing cards into 3-4 rows:
 - Ongoing
 - Done 
 
+<figure>
+        <img src="/images/Kanban.jpg">
+        <figcaption> Basic Kanban Board <br>
+        Picture Credits: [Wikipedia](https://en.wikipedia.org/wiki/Kanban_board)</figcaption>
+</figure>
+
 The secret lies in managing the flow and limiting WIP(Work in Progress). When you limit WIP, you try to encourage your team to finish the work at hand before 'pulling' new work. You can set hard limits of how many WIP's are currently ongoing at a point of time. When you manage the flow, you observe where the work is getting piled up. Is it in pulling more work before its done? Is it in pulling too little? If needed you can redefine your Done/Done/Done Criteria.
 
 ## Why do I need it?
