@@ -5,6 +5,8 @@ description: "What qualities are essential to building a great software?"
 category: articles
 comments: true
 tags: [Software, Engineering]
+image:
+  feature: markus-spiske-AaEQmoufHLk-unsplash.jpg
 ---
 
 After my first couple of projects, I realized inadvertently, I was making certain tradeoffs. Certain patterns started to emerge. So, when I read the book, [Seriously Good Software](https://www.amazon.com/Seriously-Good-Software-works-survives/dp/1617296295) I knew I had to write about it.

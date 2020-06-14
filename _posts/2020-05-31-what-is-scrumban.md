@@ -5,6 +5,8 @@ description: "Heard of it?"
 category: articles
 comments: true
 tags: [Scrum,Kanban,Scrumban,Software Engineering]
+image:
+  feature: marvin-meyer-SYTO3xs06fU-unsplash.jpg
 ---
 You may have heard it as the cool new hip thing. Maybe it was your friend who said, "Yeah, we're using scrumban now. Its nothing like scrum." Well in that case let's get to know what's going on with this 'new' thing and if it's really useful for your team.
 

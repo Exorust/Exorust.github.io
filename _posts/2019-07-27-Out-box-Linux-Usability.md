@@ -5,6 +5,8 @@ description: "Short rant about Linux Usability"
 category: articles
 comments: true
 tags: [Linux, Distro, Usability]
+image:
+  feature: marvin-meyer-SYTO3xs06fU-unsplash.jpg
 ---
 
 Most of you readers must have used a linux distro at some point of time or the other. And similarly, I know that you must have used either MacOS or Windows at some point or another. And you must have noticed that out of the box, Linux Distro's really aren't 'usable'.
