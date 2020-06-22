@@ -2,7 +2,7 @@
 layout: post
 title: "Where do I need tech XYZ?"
 description: "A listing of big data & distributed tech with use cases"
-category: articles
+category: tech
 comments: true
 tags: [Software Engineering,Big Data,Distributed Technology]
 ---

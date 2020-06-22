@@ -2,7 +2,7 @@
 layout: post
 title: "Get your head out of the IDE"
 description: "Struggles of every Engineer"
-category: articles
+category: design
 comments: true
 tags: [Software Engineering]
 ---

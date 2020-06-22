@@ -2,7 +2,7 @@
 layout: post
 title: "Blitzscaling Part 3: Strategy Innovation in Blitzscaling"
 description: "What are the strategies to be pursued?"
-category: articles
+category: startup
 comments: true
 tags: [Blitzscaling, Reid Hoffman, Chris Yeh]
 ---

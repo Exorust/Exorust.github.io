@@ -2,7 +2,7 @@
 layout: post
 title: "Blitzscaling Part 1: What is Blitzscaling?"
 description: "First step of my reading journey of Blitzscaling"
-category: articles
+category: startup
 comments: true
 tags: [Blitzscaling, Reid Hoffman, Chris Yeh]
 ---

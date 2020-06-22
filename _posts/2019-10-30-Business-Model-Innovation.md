@@ -2,7 +2,7 @@
 layout: post
 title: "Blitzscaling Part 2: Business Model Innovation"
 description: "What drives Blitzscaling?"
-category: articles
+category: startup
 comments: true
 tags: [Blitzscaling, Reid Hoffman, Chris Yeh]
 ---

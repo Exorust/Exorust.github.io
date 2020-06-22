@@ -2,7 +2,7 @@
 layout: post
 title: "Scrumban: A tool or another fad?"
 description: "Heard of it?"
-category: articles
+category: tech
 comments: true
 tags: [Scrum,Kanban,Scrumban,Software Engineering]
 image:

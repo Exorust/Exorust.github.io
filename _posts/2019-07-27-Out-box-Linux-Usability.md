@@ -2,7 +2,7 @@
 layout: post
 title: "Out of the box Linux Usability"
 description: "Short rant about Linux Usability"
-category: articles
+category: design
 comments: true
 tags: [Linux, Distro, Usability]
 image:

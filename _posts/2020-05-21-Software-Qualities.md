@@ -2,7 +2,7 @@
 layout: post
 title: "Fundamental Software Qualities"
 description: "What qualities are essential to building a great software?"
-category: articles
+category: tech
 comments: true
 tags: [Software, Engineering]
 image:

@@ -2,7 +2,7 @@
 layout: post
 title: "Rules of UX Design"
 description: "How can I design something usable?"
-category: articles
+category: design
 comments: true
 tags: [UX, Design, Usability, HCI]
 ---

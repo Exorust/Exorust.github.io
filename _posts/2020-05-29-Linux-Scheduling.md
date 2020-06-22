@@ -2,7 +2,7 @@
 layout: post
 title: "Scheduling in Linux"
 description: "Completely Fair Scheduler & Multicore Scheduling"
-category: articles
+category: tech
 comments: true
 tags: [Linux, Scheduler]
 ---
