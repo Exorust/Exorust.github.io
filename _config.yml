@@ -33,9 +33,9 @@ links:
     url: /about
   - title: Tech
     url: /tech  
-    - title: Design
+  - title: Design
     url: /design  
-    - title: Startup
+  - title: Startup
     url: /startup
   - title: CV
     url: /resume.html

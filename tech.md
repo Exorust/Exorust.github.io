@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /tech/index.html
-title: "Tech"
+title: "Technologies"
 tags: [blog, graphic design]
 ---
 

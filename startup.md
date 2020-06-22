@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /startup/index.html
-title: "Posts"
+title: "Startup"
 tags: [blog, graphic design]
 ---
 
