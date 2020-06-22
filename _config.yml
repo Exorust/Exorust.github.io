@@ -31,8 +31,12 @@ opengraph:
 links:
   - title: Rebel Who?
     url: /about
-  - title: Posts
-    url: /articles
+  - title: Tech
+    url: /tech  
+    - title: Design
+    url: /design  
+    - title: Startup
+    url: /startup
   - title: CV
     url: /resume.html
 
