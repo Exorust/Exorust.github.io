@@ -4,7 +4,7 @@ title: "Home"
 sec-title: "Recent Posts"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: typewriter.jpg
+  feature: banner_front.png
 ---
 
 Hello there! Welcome. I'm **Chandrahas Aroori** and here's a listing of all the recent posts I've made.
