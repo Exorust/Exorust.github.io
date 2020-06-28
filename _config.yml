@@ -1,4 +1,4 @@
-title:            A Rebel's Musing
+title:            Idealistic Realist's Musing
 tagline:          Chandrahas Aroori's Thoughts.
 description:      Blog full of Chandu's Ideas and Thoughts!
 canonical: http://exorust.github.io
@@ -29,7 +29,7 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Rebel Who?
+  - title: About me
     url: /about
   - title: Tech
     url: /tech  

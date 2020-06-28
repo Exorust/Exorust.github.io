@@ -1,13 +1,19 @@
 ---
 layout: post
 permalink: /about/index.html
-title: Rebel Who?
+title: Idealistic Realist?
 description: A poetic Coder who went to the woods..
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: whois.png
 ---
-Hi I'm ***Chandrahas Aroori***!
+
+" Everyone who wasn't an idealistic fool when young hasn't lived.
+Anyone who isn't a realist hasn't lived.
+
+But one who becomes an idealist after being trapped as a realist changes the world."
+
+Hi, and welcome I'm ***Chandrahas Aroori***!
 
 As a human, I think we need to ask ourselves, "Did I leave this world better than when I came in?"
 
