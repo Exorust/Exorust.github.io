@@ -8,9 +8,9 @@ image:
   feature: whois.png
 ---
 
-##### " Everyone who wasn't an idealistic fool when young hasn't lived.
-##### Anyone who isn't a realist hasn't lived.
-##### But one who becomes an idealist after being trapped as a realist changes the world."
+**" Everyone who wasn't an idealistic fool when young hasn't lived.**
+**Anyone who isn't a realist hasn't lived.**
+**But one who becomes an idealist after being trapped as a realist changes the world."**
 
 Hi, and welcome I'm ***Chandrahas Aroori***!
 
