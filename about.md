@@ -10,7 +10,7 @@ image:
 
 > " Everyone who wasn't an idealistic fool when young hasn't lived.
 > Anyone who isn't a realist hasn't lived.
-> MBut one who becomes an idealist after being trapped as a realist changes the world."
+> But one who becomes an idealist after being trapped as a realist changes the world."
 
 Hi, and welcome I'm ***Chandrahas Aroori***!
 
