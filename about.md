@@ -12,7 +12,7 @@ image:
 **Anyone who isn't a realist hasn't lived.**
 **But one who becomes an idealist after being trapped as a realist changes the world."**
 
-Hi, and welcome I'm ***Chandrahas Aroori***!
+Hi, and welcome I'm ***Chandrahas Aroori***! I'm on twitter as [CosmicSoulForge](https://twitter.com/cosmicsoulforge).
 
 As a human, I think we need to ask ourselves, "Did I leave this world better than when I came in?"
 
