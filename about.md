@@ -30,10 +30,11 @@ My favourite poem is ["Do Not Go gentle into that good night"](https://poets.org
 
 ### As a coder,
 
-On a more technical note, I currently am a senior pursuing my undergraduate in Comp Sci in Bits Hyderabad. I've interned at Microsoft, and if you wish to look at my CV its [here](https://exorust.github.io/resume.html). People say I'm an energetic person who agressively pursues what I believe in.
+On a more technical note, I'm currently working at Microsoft and I've completed my undergraduate in Comp Sci at Bits Hyderabad. I've interned at Microsoft & Nvidia as well, and if you wish to look at my CV its [here](https://exorust.github.io/resume.html). People say I'm an energetic person who agressively pursues what I believe in.
 
 #### Tech I've been Involved with:
 - Blockchain
+- High Performance Computing
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
