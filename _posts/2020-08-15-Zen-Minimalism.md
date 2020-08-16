@@ -51,7 +51,7 @@ We all have a propensity towards nature. We want AR/VR we want nature wallpapers
 
 The principle of yugen captures the Zen view that precision and finiteness are at odds with nature, implying stagnation and loss of life, and that the power of suggestion is often stronger than that of full disclosure. 
 
-1. Datsuzoku: unbounded by convention, free**
+**6. Datsuzoku: unbounded by convention, free**
 
 Datsuzoku signifies a certain reprieve from convention. When a well-worn pattern is broken, creativity and resourcefulness emerge. Breaking from conventions organic growth of camera's in phones have now destroyed the 'digital camera' that was once pervasive.
 
